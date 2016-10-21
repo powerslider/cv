@@ -1,2 +1,2 @@
-My CV for job applications
-==========================
+My personal CV
+==============
